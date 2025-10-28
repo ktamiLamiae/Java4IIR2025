@@ -3,7 +3,8 @@
 **Auteur : A. Larhlimi**
 
 *Destiné aux étudiants de 4 IIR - EMSI Casablanca*
-# Fait par : Ktami Lamiae
+* Fait par : Ktami Lamiae*
+<img src="pict.png" style="height:200px;margin-right:432px"/>
 ***
 
 ## Introduction
@@ -812,6 +813,7 @@ Ce document est prêt à être diffusé, imprimé, ou converti en PDF pour votre
 
 
 ![](collection.jpg)
+
 
 
 
